@@ -1,5 +1,8 @@
 # Conversor de Moedas
 
+![Badge](https://img.shields.io/badge/Status-Finalizado-brightgreen)
+![Badge](https://img.shields.io/badge/Challenge-ONE%20%2B%20Alura-blue)
+
 ## Descrição
 O projeto Conversor de Moeda consiste em um sistema de conversão de moeda que utiliza a API ExchangeRate-API para obter taxas de câmbio dinâmicas e atualizadas em tempo real. Este projeto foi desenvolvido como parte do desafio "Conversor de Moedas" da formação Backend com Java da Oracle Next Education.
 
@@ -63,3 +66,13 @@ Certifique-se de manter sua chave de API confidencial e não compartilhá-la pub
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novas funcionalidades ✨
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Márcio Otávio**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-otavio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcioOtavio)
+
+*Projeto construído como parte do programa de formação da Alura e Oracle Next Education.*
+
